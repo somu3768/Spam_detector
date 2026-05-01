@@ -72,7 +72,7 @@ https://github.com/shwetarajput60002-ctrl/email-spam-detector
 
 ## 👩‍💻 Student Details
 
-**Name:** Shweta
+**Name:** saumya
 
 ---
 
